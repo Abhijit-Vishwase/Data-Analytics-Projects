@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on analyzing e-commerce sales data to generate business insights, customer segmentation, and sales forecasting using Python, SQL, and Power BI.
+This project focuses on analyzing e-commerce sales data to generate business insights, customer segmentation, and implemented logistic regression model using Python, SQL, and Power BI.
 
 The project covers the complete analytics workflow:
 - Data Cleaning
@@ -10,7 +10,6 @@ The project covers the complete analytics workflow:
 - Exploratory Data Analysis
 - RFM Customer Segmentation
 - Machine Learning
-- Forecasting
 - Interactive Power BI Dashboards
 
 ---
@@ -21,7 +20,6 @@ The project covers the complete analytics workflow:
 - Identify high-value customers using RFM analysis
 - Discover business trends and product insights
 - Build customer segmentation models
-- Forecast future sales using time-series models
 - Create professional Power BI dashboards
 
 ---
@@ -39,8 +37,6 @@ The project covers the complete analytics workflow:
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Prophet
-- Statsmodels
 
 ---
 
@@ -52,10 +48,6 @@ Data Wrangling
 Exploratory Data Analysis
     ↓
 RFM Segmentation
-    ↓
-Customer Clustering
-    ↓
-Sales Forecasting
     ↓
 Power BI Dashboarding
 ```
@@ -84,21 +76,13 @@ Power BI Dashboarding
 - Customer segmentation
 
 ## Machine Learning
-- Customer clustering using KMeans
 - Churn prediction
 - Customer behavior analysis
 
-## Forecasting
-- Prophet forecasting
-- ARIMA forecasting
-- Future sales prediction
 
 ## Power BI Dashboards
-- Executive Overview
-- Sales Analysis
-- Product Analytics
+- Executive Overviews
 - Customer Analytics & RFM Segmentation
-- Forecasting Dashboard
 
 ---
 
@@ -118,7 +102,6 @@ Customer behavior, segmentation, clustering, and retention analysis.
 - Loyal customers generate repeat purchases.
 - Certain products dominate sales performance.
 - Customer segmentation helps improve retention strategy.
-- Forecasting identifies future growth opportunities.
 
 ---
 
